@@ -1,0 +1,4 @@
+/mnt/c/Users/bcbru/OneDrive/Documentos/trabalho-05-hash-table-cansadas-master/build/CMakeFiles/run_tests.dir
+/mnt/c/Users/bcbru/OneDrive/Documentos/trabalho-05-hash-table-cansadas-master/build/CMakeFiles/driver_hash.dir
+/mnt/c/Users/bcbru/OneDrive/Documentos/trabalho-05-hash-table-cansadas-master/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bcbru/OneDrive/Documentos/trabalho-05-hash-table-cansadas-master/build/CMakeFiles/rebuild_cache.dir
